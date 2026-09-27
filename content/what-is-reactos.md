@@ -11,7 +11,7 @@ Our own main features are:
 
  * ReactOS is able to run Windows software
  * ReactOS is able to run Windows drivers
- * ReactOS looks-like Windows
+ * ReactOS looks like Windows
  * ReactOS is free and open source
 
 ---
